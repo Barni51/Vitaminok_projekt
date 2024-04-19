@@ -6,6 +6,8 @@ p{
 }
 .shadow{
   height: 320px;
+  width: 700px;
+  margin: auto;
 }   
 body{
   font-size: large;
