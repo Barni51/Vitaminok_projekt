@@ -1,14 +1,17 @@
-img{
-   height: auto;
+img {
+  height: auto;
 }
-p{
-    text-align: justify;
+
+p {
+  text-align: justify;
 }
-.shadow{
+
+.shadow {
   height: 320px;
   width: 700px;
   margin: auto;
-}   
-body{
+}
+
+body {
   font-size: large;
 }
